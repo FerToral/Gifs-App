@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+}
+
+#sidebar{
+    height: 100%;
+    min-height: 100vh;
+    min-width: 180px;
+}
+.borde-arcoiris{
+    
+    background: linear-gradient(white, white) padding-box,
+    linear-gradient(to right, darkblue, darkorchid) border-box;
+    border-radius: auto;
+    border: 2px solid transparent;
+}
